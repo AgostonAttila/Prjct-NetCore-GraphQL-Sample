@@ -1,0 +1,1 @@
+# Prjct-NetCore-GraphQL-Sample
